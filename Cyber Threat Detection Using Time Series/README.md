@@ -1,6 +1,7 @@
 # Cyber Threat Detection Using Time Series 
 
 ## Objective :
+
 	The goal is to predict and model how cyber threats may evolve over time and spread across different countries. The system seems to use real-world data with attack probabilities for various types of cyber threats in different countries.
 
 ## Overview :
